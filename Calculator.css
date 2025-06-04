@@ -1,0 +1,66 @@
+body
+{
+    padding-top: 100px;
+    padding-left: 400px;
+
+}
+.display_section
+{
+    height: 130px;
+    border: 2px solid red;
+    margin: 20px;
+    padding:15px;
+ 
+}
+.main_body
+{
+    height: 600px;
+    width: 45%;
+    border: 2px solid red;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+    margin: 20px;
+
+}
+.button_section{
+    height: 75%;
+    border: 2px solid red;
+    margin: 20px;
+    padding-top: 20px;
+}
+.button_class{
+    height: 50px;
+    width: 50px;
+    margin:15px;    
+}
+.equal
+{
+    display: flex;
+    justify-content: center;   
+}
+.equal button
+{
+    height: 40px;
+    width: 150px;
+    background-color: green;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.eql_c
+{
+    font-weight:bolder;
+    color: rgb(2, 0, 128);
+    font-size: 40px;
+   
+}
+.answer_section
+{
+    display: flex;
+    justify-content: end;
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
